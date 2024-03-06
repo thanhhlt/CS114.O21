@@ -7,7 +7,6 @@
 <!-- Title -->
 <h1 align="center"><b>CS114.O21 - MÁY HỌC</b></h1>
 
-# Thông tin Môn học
 <table>
   <tr><th>Môn Học     </th><td>Máy học (Machine Learning)  </td></tr>
   <tr><th>Lớp         </th><td>CS114.O21                   </td></tr>
@@ -15,7 +14,7 @@
   <tr><th>GV Lý Thuyết</th><td>Phạm Nguyễn Trường An       </td></tr>
 </table>
 
-# Tác giả:
+# Tác giả
 * Họ và Tên: Huỳnh Lê Tấn Thành
-* MSSV: 19522228
+* MSSV: `19522228`
 * Email: 19522228@gm.uit.edu.vn
