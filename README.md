@@ -7,6 +7,7 @@
 <!-- Title -->
 <h1 align="center"><b>CS114.O21 - MÁY HỌC</b></h1>
 
+# Mô tả môn học
 <table>
   <tr><th>Môn Học     </th><td>Máy học (Machine Learning)  </td></tr>
   <tr><th>Lớp         </th><td>CS114.O21                   </td></tr>
