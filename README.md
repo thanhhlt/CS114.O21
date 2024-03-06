@@ -15,6 +15,9 @@
 </table>
 
 # Tác giả
-* Họ và Tên: Huỳnh Lê Tấn Thành
-* MSSV: `19522228`
-* Email: 19522228@gm.uit.edu.vn
+<table>
+  <tr><th>Họ và Tên     </th><td>Huỳnh Lê Tấn Thành        </td></tr>
+  <tr><th>Lớp           </th><td>KHMT2019                  </td></tr>
+  <tr><th>MSSV          </th><td>`19522228`                </td></tr>
+  <tr><th>Email         </th><td>19522228@gm.uit.edu.vn    </td></tr>
+</table>
