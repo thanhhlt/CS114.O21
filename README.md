@@ -25,6 +25,3 @@
 * **Họ và tên**: Huỳnh Lê Tấn Thành
 * **MSSV**: 19522228
 * **Email**: *19522228@gm.uit.edu.vn*
-
-## ĐỒ ÁN MÔN HỌC
-<a name="doan"></a>
